@@ -8,9 +8,9 @@
 /*
 * This define tooltip along with payment information
 */
-if (!function_exists('get_payment_details_on_tooltip')) {
-	function get_payment_details_on_tooltip($taxdata_id, $county_name, $tax_id, $tax_year, $unique_div_id)
+if (!function_exists('demo_001')) {
+	function demo_001()
 	{
-		return '<div id="' . $taxdata_id . '" class="tooltip_custom" onMouseover="paidby(\'' . $county_name . '\',\'' . $tax_id . '\',' . $tax_year . ',' . $taxdata_id . ',' . $unique_div_id . ')">PAID<div class="payment_status_box"><span id="' . $unique_div_id . '"></span></div></div>';
+		return 'this is demo library';
 	}
 }

@@ -1,6 +1,6 @@
 <?php 
 
-namespace tmc\HelloWorld;
+namespace tmc\hello_world;
 
 class Index
 {

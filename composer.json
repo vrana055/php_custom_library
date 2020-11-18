@@ -1,12 +1,12 @@
 {
-    "name": "vitalis/hello-composer",
+    "name": "tmc/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
-            "email": "agavitalisogbonna@gmail.com"
+            "name": "tmc dev",
+            "email": "tmc@gmail.com"
         }
     ],
     "minimum-stability": "stable",
